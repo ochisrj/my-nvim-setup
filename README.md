@@ -28,7 +28,7 @@ nvim
 
 ---
 
-to fix this you need to install from external installer like `winget` `choco` or other installer 
+to fix this you need to install from external installer like `winget` `choco` or other installer \
 Winget
 ```
 winget install tree-sitter
