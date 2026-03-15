@@ -3,7 +3,9 @@ this is my nvim setup code editor on window 10
 ## Step By Step
 1. go to website `Lazyvim` from [lazyvim](https://www.lazyvim.org) and go to `installation` cliked at `window`
 2. open powershell by `administrator` and copy this command step by step:
-Follow step 
+
+---
+
 Make a backup of your current Neovim files: 
 ```
 Move-Item $env:LOCALAPPDATA\nvim $env:LOCALAPPDATA\nvim.bak
