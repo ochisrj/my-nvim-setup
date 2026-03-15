@@ -24,7 +24,7 @@ nvim
 ```
 3. after you open up nvim on `terminal` it will start install neccesary tool wait until it finish 
 4. you can see `tree-sitter` try to install but fail
-![Image](https://github.com/user-attachments/assets/0dbd9369-5c7c-479d-a8f3-160531e092ef) \
+![Image](https://github.com/user-attachments/assets/0dbd9369-5c7c-479d-a8f3-160531e092ef) 
 
 ---
 
